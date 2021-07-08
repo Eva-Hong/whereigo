@@ -1,0 +1,82 @@
+.wrap {
+	margin: 50px auto;
+	width: 1500px;
+	height: 600px;
+	position: relative;
+	overflow: hidden;
+}
+
+.pic {
+	width: 550px;
+	height:700px;
+	cursor: pointer;
+}
+
+.pic1 {
+	background:url(../../images/sz/pingandahsa.jpg);
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+
+
+
+.pic2 {
+	background: url(../../images/sz/jiazhou.jpg);
+	position: absolute;
+	top: 0;
+	left: 679px;
+	z-index: 3;
+}
+
+
+
+.pic3 {
+	background: url(../../images/sz/wanxiangcheng.jpg);
+	position: absolute;
+	top: 0;
+	left: 770px;
+	z-index: 5;
+}
+
+
+.pic4 {
+	background: url(../../images/sz/yuanboyuan.jpg);
+	position: absolute;
+	top: 0;
+	left: 861px;
+	z-index: 7;
+}
+
+
+.pic5 {
+	background: url(../../images/sz/sz1.jpg);
+	position: absolute;
+	top: 0;
+	left: 952px;
+	z-index: 9;
+}
+
+
+.pic6 {
+	background: url(../../images/sz/sz2.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 11;
+}
+.pic7 {
+	background: url(../../images/sz/sz3.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 13;
+}
+.pic8 {
+	background: url(../../images/sz/sz4.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 15;
+}

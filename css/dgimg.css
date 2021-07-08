@@ -1,0 +1,96 @@
+.wrap {
+	margin: 50px auto;
+	width: 1500px;
+	height: 600px;
+	position: relative;
+	overflow: hidden;
+}
+
+.pic {
+	width: 550px;
+	height:700px;
+	cursor: pointer;
+}
+
+.pic1 {
+	background:url(../images/dongguan/dggm/dg.jpg);
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+
+
+
+.pic2 {
+	background: url(../images/dongguan/dgdls/dgdls2.jpg);
+	position: absolute;
+	top: 0;
+	left: 679px;
+	z-index: 3;
+}
+
+
+
+.pic3 {
+	background: url(../images/dongguan/dgdls/dgdls5.jpg);
+	position: absolute;
+	top: 0;
+	left: 770px;
+	z-index: 5;
+}
+
+
+.pic4 {
+	background: url(../images/dongguan/dggm/dggm3.jpg);
+	position: absolute;
+	top: 0;
+	left: 861px;
+	z-index: 7;
+}
+
+
+.pic5 {
+	background: url(../images/dongguan/dgky.jpg);
+	position: absolute;
+	top: 0;
+	left: 952px;
+	z-index: 9;
+}
+
+
+.pic6 {
+	background: url(../images/dongguan/dgky2.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 11;
+}
+.pic7 {
+	background: url(../images/dongguan/dgql1.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 13;
+}
+.pic8 {
+	background: url(../images/dongguan/dgql2.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 15;
+}
+.pic9 {
+	background: url(../images/dongguan/zwy1.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 17;
+}
+.pic10 {
+	background: url(../images/dongguan/hqs.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 19;
+}

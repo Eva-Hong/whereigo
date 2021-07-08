@@ -1,0 +1,96 @@
+.wrap {
+	margin: 50px auto;
+	width: 1500px;
+	height: 600px;
+	position: relative;
+	overflow: hidden;
+}
+
+.pic {
+	width: 550px;
+	height:700px;
+	cursor: pointer;
+}
+
+.pic1 {
+	background:url(../../images/qy/微信图片_20210528145243.jpg);
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+
+
+
+.pic2 {
+	background: url(../../images/qy/微信图片_20210528144923.jpg);
+	position: absolute;
+	top: 0;
+	left: 679px;
+	z-index: 3;
+}
+
+
+
+.pic3 {
+	background: url(../../images/qy/微信图片_20210528145250.jpg);
+	position: absolute;
+	top: 0;
+	left: 770px;
+	z-index: 5;
+}
+
+
+.pic4 {
+	background: url(../../images/qy/微信图片_20210528145648.jpg);
+	position: absolute;
+	top: 0;
+	left: 861px;
+	z-index: 7;
+}
+
+
+.pic5 {
+	background: url(../../images/qy/微信图片_202105281456481.jpg);
+	position: absolute;
+	top: 0;
+	left: 952px;
+	z-index: 9;
+}
+
+
+.pic6 {
+	background: url(../../images/qy/微信图片_20210528150121.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 11;
+}
+.pic7 {
+	background: url(../../images/qy/微信图片_202105281501211.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 13;
+}
+.pic8 {
+	background: url(../../images/qy/微信图片_202105281501212.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 15;
+}
+.pic9 {
+	background: url(../../images/qy/微信图片_202105281501213.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 17;
+}
+.pic10 {
+	background: url(../../images/qy/微信图片_202105281501214.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 19;
+}

@@ -1,0 +1,96 @@
+.wrap {
+	margin: 50px auto;
+	width: 1500px;
+	height: 600px;
+	position: relative;
+	overflow: hidden;
+}
+
+.pic {
+	width: 550px;
+	height:700px;
+	cursor: pointer;
+}
+
+.pic1 {
+	background:url(../../images/fs/微信图片编辑_20210528153824.jpg);
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+
+
+
+.pic2 {
+	background: url(../../images/fs/微信图片编辑_20210528155400.jpg);
+	position: absolute;
+	top: 0;
+	left: 679px;
+	z-index: 3;
+}
+
+
+
+.pic3 {
+	background: url(../../images/fs/微信图片编辑_20210528155418.jpg);
+	position: absolute;
+	top: 0;
+	left: 770px;
+	z-index: 5;
+}
+
+
+.pic4 {
+	background: url(../../images/fs/微信图片编辑_20210528155551.jpg);
+	position: absolute;
+	top: 0;
+	left: 861px;
+	z-index: 7;
+}
+
+
+.pic5 {
+	background: url(../../images/fs/微信图片编辑_20210528155610.jpg);
+	position: absolute;
+	top: 0;
+	left: 952px;
+	z-index: 9;
+}
+
+
+.pic6 {
+	background: url(../../images/fs/微信图片编辑_20210528155632.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 11;
+}
+.pic7 {
+	background: url(../../images/fs/微信图片编辑_20210528155650.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 13;
+}
+.pic8 {
+	background: url(../../images/gz/dfgs.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 15;
+}
+.pic9 {
+	background: url(../../images/qy/src=http___inews.gtimg.com_newsapp_bt_0_11387413584_1000.jpg&refer=http___inews.gtimg.jpg);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 17;
+}
+.pic10 {
+	background: url(../../images/gz/gz9.png);
+	position: absolute;
+	top: 0;
+	left: 1043px;
+	z-index: 19;
+}
